@@ -1,0 +1,4 @@
+pandas_ta
+nselib
+mplfinance
+streamlit-option-menu
